@@ -8,7 +8,7 @@
 
 #### Education
 - 🎓 **ERASMUS MUNDUS JOINT MASTER's in Intelligent Field Robotic Systems (IFRoS)** from Eötvös Loránd University, Hungary and University of Girona, Spain
-- 🎓 **B.Tech in Electrical Engineering** from Aligarh Muslim University,India (Top 5% of class)
+- 🎓 **B.Tech in Electrical Engineering** from Aligarh Muslim University, India (Top 5% of class)
 
 ---
 
