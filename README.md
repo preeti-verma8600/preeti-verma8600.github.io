@@ -46,3 +46,8 @@
 
 ---
 
+📬 **Contact Me:**
+- 📧 Email: [preeti8600verma@gmail.com](mailto:preeti8600verma@gmail.com)
+- 💼 LinkedIn: [Preeti Verma](https://www.linkedin.com/in/preetisnno/)
+
+---
