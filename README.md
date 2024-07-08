@@ -24,10 +24,9 @@
 ---
 
 🤖 **Robotics Projects:**
-- **[Project Name 1](https://your-project-1-url.github.io):** Short description of the project.
-- **[Project Name 2](https://your-project-2-url.github.io):** Short description of the project.
-- **[Project Name 3](https://your-project-3-url.github.io):** Short description of the project.
-
+- **[Autonomous Navigation](https://preeti-verma8600.github.io/autonomous_navigation.github.io):** 
+- **[Perception Project](https://preeti-verma8600.github.io/perception.github.io):**
+- 
 ---
 
 🌐 **Languages:**
