@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Preeti Verma / Site Title"
+title                    : "Preeti Verma / AI & Robotics Researcher"
 title_separator          : "-"
 name                     : &name "Preeti Verma"
 description              : &description "Preeti Verma portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "preeti_verma3.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Preeti Verma"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Girona, Spain"
+  employer         : "University of Girona"
   uri              : # URL
   email            : "preeti8600verma@gmail.com" 
 
