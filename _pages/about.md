@@ -9,48 +9,65 @@ redirect_from:
 
 # 👋 Hi, I'm Preeti Verma
 
-I’m an **AI researcher and robotics enthusiast**, exploring how intelligent systems can learn, perceive, and adapt in the physical world.  
-My work blends **control, machine learning, and perception** — aiming to bridge the gap between intelligent decision-making and real-world embodiment.
+I’m an **AI researcher and robotics enthusiast**, passionate about building systems that *perceive, learn, and act* in the real world.
 
-I’m currently with **Micelab at the University of Girona**, contributing to real-time glucose control systems as part of an AI-driven healthcare initiative.  
-Previously, I pursued the **Erasmus Mundus Master's in Intelligent Field Robotic Systems (IFRoS)** across Spain and Hungary, and hold a B.Tech in Electrical Engineering from AMU, India.
+Currently, I’m contributing to **AI-powered glucose control systems** at [Micelab, University of Girona](https://www.udg.edu), where we translate machine learning into **personalized healthcare** solutions. Previously, I completed the **Erasmus Mundus Master's in Intelligent Field Robotic Systems (IFRoS)** — spanning Spain and Hungary.  
+I hold a **B.Tech in Electrical Engineering** from AMU, India, graduating in the **top 5%** of my class.
 
 ---
 
 ## 🧠 Research Vision
 
-I’m preparing for a **PhD in AI & Robotics**, focusing on autonomous systems that can operate safely and effectively in dynamic, human-centric environments.
+My long-term goal is to pursue a **PhD in AI & Robotics**, building autonomous systems that are:
 
-My research interests include:
-- Embodied & Interactive AI  
-- Reinforcement Learning & Adaptive Control  
-- Computer Vision & 3D Perception  
-- Medical AI & Assistive Systems  
-- Safe, Trustworthy, and Explainable Robotics
+- 🔍 **Perceptive**: capable of real-time understanding of their environment  
+- 🧠 **Adaptive**: learning from experience to improve over time  
+- 🦾 **Interactive**: collaborating meaningfully with humans  
+- 🩺 **Helpful**: applied in critical areas like assistive tech and healthcare  
+- 🔐 **Trustworthy**: robust, explainable, and ethically grounded
 
 ---
 
-## 📚 Publications & Projects
+## 📝 Selected Work & Publications
 
-My work spans across autonomous navigation, medical imaging, robotic SLAM, and language-guided AI — with contributions presented at venues like **MICCAI, ECAI, and LREC-COLING**.
+My research spans:
 
-📝 Full list of projects and publications is available in my [CV](/files/Preeti_Verma_CV.pdf).
+- 🤖 Autonomous Navigation & SLAM  
+- 🧬 Medical Image Analysis & QA Systems  
+- 📦 Multi-modal Transformers for Medical NLP  
+- 🧠 Reinforcement Learning for Control  
+- 🛰️ Sensor Fusion & Perception Pipelines
+
+You can find my contributions in top venues like **MICCAI 2024**, **ECAI 2023**, and **LREC-COLING 2024**.
+
+👉 [**View Full CV**](/files/Preeti_Verma_CV.pdf)
 
 ---
 
 ## 💬 Beyond the Code
 
-I’m drawn to the **human side of robotics** — systems that collaborate, assist, and understand.  
-I care about open collaboration, AI ethics, and real-world deployment of intelligent systems.
+I care deeply about:
 
-> “The best way to predict the future is to invent it.” — Alan Kay
+- 🤝 Open collaboration  
+- 🛠️ Applied AI that solves real-world problems  
+- 👩‍🏫 Mentorship and inclusive research culture  
+- ⚖️ Responsible, ethical AI development
+
+> _“The best way to predict the future is to invent it.”_  
+> **And I aim to invent a future where machines truly understand.**
 
 ---
 
-## 🤝 Let’s Connect
+## 🌐 Let's Connect
 
-Always happy to collaborate or brainstorm with fellow researchers.  
-📫 [LinkedIn](https://www.linkedin.com/in/preetisnno/) • 💻 [GitHub](https://github.com/preeti-verma8600) • 📄 [CV](/files/Preeti_Verma_CV.pdf)
+Whether you're a researcher, a lab, or just curious about intelligent systems — I'm always open to collaboration and conversation.
+
+**📫 Reach out:**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/preetisnno/)  
+- 💻 [GitHub](https://github.com/preeti-verma8600)  
+- 📄 [View CV](/files/Preeti_Verma_CV.pdf)  
+
+Let’s build something intelligent — and meaningful — together.
 
 
 
