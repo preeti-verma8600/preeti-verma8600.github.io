@@ -7,84 +7,66 @@ redirect_from:
   - /about.html
 ---
 
-# 👋 Hi, I'm Aabha Verma
+# 👋 Hi, I'm Preeti Verma
 
-I’m an **Artificial Intelligence Researcher** passionate about building intelligent, embodied systems that learn, perceive, and act in the real world. My research lies at the intersection of **AI, robotics, and control**, driven by curiosity for how machines can understand and adapt to dynamic environments.
+I’m an **Artificial Intelligence Researcher** passionate about building intelligent, embodied systems that learn, perceive, and act in the real world.  
+My research lies at the intersection of **AI, robotics, and control**, driven by curiosity about how machines can understand, reason, and adapt to dynamic environments.
 
-Currently, I’m working at **Micelab, University of Girona (Spain)**, where I’m developing **AI-driven glucose control systems** for personalized healthcare. I completed my **Erasmus Mundus Master in Intelligent Field Robotic Systems (IFRoS)** — a joint program between *Eötvös Loránd University* (Hungary) and *University of Girona* (Spain).  
+Currently, I work at **Micelab, University of Girona (Spain)**, developing **AI-driven glucose control systems** for personalized healthcare.  
+I completed my **Erasmus Mundus Master in Intelligent Field Robotic Systems (IFRoS)** — a joint program between *Eötvös Loránd University* (Hungary) and *University of Girona* (Spain).  
 Before that, I earned my **B.Tech in Electrical Engineering** from *Aligarh Muslim University (India)*, graduating in the **top 5%** of my class.
 
 ---
 
 ## 🧠 Research Interests
 
-My long-term goal is to pursue a **PhD in AI and Robotics**, focusing on developing autonomous systems that can perceive, reason, and interact naturally with humans and their surroundings.
+My long-term goal is to pursue a **PhD in AI and Robotics**, focusing on building autonomous systems that can perceive, reason, and interact seamlessly with humans and complex environments.
 
-**Key interests include:**
-- Embodied Intelligence and Human-Robot Interaction  
-- Reinforcement Learning and Control  
-- Computer Vision and Perception  
-- Medical AI and Simulation  
-- Robust and Explainable AI Systems  
+**Key research themes:**
+- 🤖 **Embodied Intelligence** and Human-Robot Interaction  
+- 🧭 **Reinforcement Learning** and Adaptive Control  
+- 👁️ **Computer Vision** and Multi-sensory Perception  
+- 🩺 **Medical AI** and Intelligent Systems for Healthcare  
+- 🔍 **Robust & Explainable Machine Learning**
 
----
-
-## 🧪 Research & Projects
-
-- **Autonomous Navigation using Deep Reinforcement Learning (UdG, 2024)**  
-  Developed custom Gym environments and compared Soft Actor-Critic and PPO for navigation tasks using LIDAR data.
-
-- **Medical Imaging Quality Assessment (University of Barcelona, 2023)**  
-  Proposed Radiomics FID metrics to quantify image quality and studied their robustness to noise and normalization.
-
-- **Autonomous Robotic Explorer & Manipulator (UdG, 2023)**  
-  Built frontier-based exploration, EKF-SLAM, and task-priority control for a 4-DOF robotic manipulator using ROS and Behavior Trees.
-
-- **Multi-Span Medical Question Answering (IIT Patna, 2022)**  
-  Co-developed *QueSemKnow*, a transformer-based model integrating query semantics and knowledge graphs for medical QA.
-
-- **Pomona 3D Graph SLAM (Budapest, 2023)**  
-  Integrated 3D LiDAR, GPS, and IMU data in ROS for robust online environment mapping and sensor fusion.
+I’m particularly interested in how perception, planning, and learning can be unified to create safe and adaptive robotic behavior.
 
 ---
 
-## 💼 Professional Experience
+## 💡 Research Highlights
 
-**Artificial Intelligence Researcher — Micelab, University of Girona (Spain)** *(Jan 2025 – Present)*  
-- Designing and testing real-time glucose control algorithms for clinical trials.  
-- Developing MPC and PID controllers for personalized insulin dosing.  
-- Supporting EU AI research proposals through technical writing and system design.
+I’ve contributed to projects spanning robotics and applied AI — from **autonomous navigation using deep reinforcement learning** and **3D SLAM mapping**,  
+to **medical image quality assessment with radiomics** and **transformer-based medical question answering**.  
 
-**Research Assistant — AMU, India** *(Nov 2021 – Jun 2022)*  
-- Worked on metaheuristic optimization for photovoltaic systems using Typhoon HIL.  
-- Conducted research training seminars and co-supervised undergraduate projects.
+My work has led to publications at **MICCAI 2024**, **ECAI 2023**, and **LREC-COLING 2024**, and collaborations with leading research groups across Europe and India.  
+More details are available in my [CV](/files/Preeti_Verma_CV.pdf).
 
 ---
 
-## 🏆 Highlights & Recognition
+## 🏆 Achievements & Recognition
 
 - 🎓 **Erasmus Mundus Scholar (IFRoS)**  
-- 🌍 **Global Korea Scholarship (GKS)** & **Banach Scholarship** recipient  
-- 🤖 **Publications at MICCAI 2024, ECAI 2023, and LREC-COLING 2024**  
+- 🌍 Recipient of **Global Korea Scholarship (GKS)** and **Banach Scholarship**  
 - 🧠 **AWS Machine Learning Scholar (2021)**  
 - 💡 Reviewer for *Scientific Reports (Nature)*  
-- 🥇 Top 2% in **EMBARK 2021** (Design Track, 450k+ participants)
+- 🥇 Ranked in **Top 2%** in EMBARK Design Track (455,000+ participants)  
 
 ---
 
-## 🗣️ Beyond Research
+## 💬 Beyond Research
 
-I’m fascinated by **AI for good**, open collaboration, and interdisciplinary robotics that make life safer and smarter.  
-I enjoy sharing ideas, mentoring, and connecting with people who are equally passionate about building the next generation of intelligent systems.
+I’m fascinated by how **AI can serve humanity** — from healthcare to autonomous exploration.  
+Outside the lab, I enjoy interdisciplinary collaborations, mentoring students, and exploring the ethical and creative aspects of intelligent systems.
 
-> “I don’t just want to build smart machines — I want to build ones that understand.”
+> “The best way to predict the future is to invent it.” — Alan Kay  
+> *And I aim to be part of inventing a future where machines truly understand.*
 
 ---
 
 ## 🤝 Let’s Connect
 
 If you’re working in **AI, robotics, or intelligent systems**, I’d love to connect and exchange ideas!  
-📫 [LinkedIn](https://www.linkedin.com/in/preetisnno/) • [GitHub](https://github.com/aabha) • [CV](/files/Aabha_CV.pdf)
+📫 [LinkedIn](https://www.linkedin.com/in/preetisnno/) • 💻 [GitHub](https://github.com/aabha) • 📄 [CV](/files/Preeti_Verma_CV.pdf)
 
 
 
