@@ -3,7 +3,7 @@ title: "Projects"
 layout: single
 permalink: /projects/
 classes: wide
-author_profile: false
+author_profile: true
 ---
 
 # 🛠️ Projects Portfolio
