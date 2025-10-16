@@ -9,64 +9,49 @@ redirect_from:
 
 # 👋 Hi, I'm Preeti Verma
 
-I’m an **Artificial Intelligence Researcher** passionate about building intelligent, embodied systems that learn, perceive, and act in the real world.  
-My research lies at the intersection of **AI, robotics, and control**, driven by curiosity about how machines can understand, reason, and adapt to dynamic environments.
+I’m an **AI researcher and robotics enthusiast**, exploring how intelligent systems can learn, perceive, and adapt in the physical world.  
+My work blends **control, machine learning, and perception** — aiming to bridge the gap between intelligent decision-making and real-world embodiment.
 
-Currently, I work at **Micelab, University of Girona (Spain)**, developing **AI-driven glucose control systems** for personalized healthcare.  
-I completed my **Erasmus Mundus Master in Intelligent Field Robotic Systems (IFRoS)** — a joint program between *Eötvös Loránd University* (Hungary) and *University of Girona* (Spain).  
-Before that, I earned my **B.Tech in Electrical Engineering** from *Aligarh Muslim University (India)*, graduating in the **top 5%** of my class.
-
----
-
-## 🧠 Research Interests
-
-My long-term goal is to pursue a **PhD in AI and Robotics**, focusing on building autonomous systems that can perceive, reason, and interact seamlessly with humans and complex environments.
-
-**Key research themes:**
-- 🤖 **Embodied Intelligence** and Human-Robot Interaction  
-- 🧭 **Reinforcement Learning** and Adaptive Control  
-- 👁️ **Computer Vision** and Multi-sensory Perception  
-- 🩺 **Medical AI** and Intelligent Systems for Healthcare  
-- 🔍 **Robust & Explainable Machine Learning**
-
-I’m particularly interested in how perception, planning, and learning can be unified to create safe and adaptive robotic behavior.
+I’m currently with **Micelab at the University of Girona**, contributing to real-time glucose control systems as part of an AI-driven healthcare initiative.  
+Previously, I pursued the **Erasmus Mundus Master's in Intelligent Field Robotic Systems (IFRoS)** across Spain and Hungary, and hold a B.Tech in Electrical Engineering from AMU, India.
 
 ---
 
-## 💡 Research Highlights
+## 🧠 Research Vision
 
-I’ve contributed to projects spanning robotics and applied AI — from **autonomous navigation using deep reinforcement learning** and **3D SLAM mapping**,  
-to **medical image quality assessment with radiomics** and **transformer-based medical question answering**.  
+I’m preparing for a **PhD in AI & Robotics**, focusing on autonomous systems that can operate safely and effectively in dynamic, human-centric environments.
 
-My work has led to publications at **MICCAI 2024**, **ECAI 2023**, and **LREC-COLING 2024**, and collaborations with leading research groups across Europe and India.  
-More details are available in my [CV](/files/Preeti_Verma_CV.pdf).
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🎓 **Erasmus Mundus Scholar (IFRoS)**  
-- 🌍 Recipient of **Global Korea Scholarship (GKS)** and **Banach Scholarship**  
-- 🧠 **AWS Machine Learning Scholar (2021)**  
-- 💡 Reviewer for *Scientific Reports (Nature)*  
-- 🥇 Ranked in **Top 2%** in EMBARK Design Track (455,000+ participants)  
+My research interests include:
+- Embodied & Interactive AI  
+- Reinforcement Learning & Adaptive Control  
+- Computer Vision & 3D Perception  
+- Medical AI & Assistive Systems  
+- Safe, Trustworthy, and Explainable Robotics
 
 ---
 
-## 💬 Beyond Research
+## 📚 Publications & Projects
 
-I’m fascinated by how **AI can serve humanity** — from healthcare to autonomous exploration.  
-Outside the lab, I enjoy interdisciplinary collaborations, mentoring students, and exploring the ethical and creative aspects of intelligent systems.
+My work spans across autonomous navigation, medical imaging, robotic SLAM, and language-guided AI — with contributions presented at venues like **MICCAI, ECAI, and LREC-COLING**.
 
-> “The best way to predict the future is to invent it.” — Alan Kay  
-> *And I aim to be part of inventing a future where machines truly understand.*
+📝 Full list of projects and publications is available in my [CV](/files/Preeti_Verma_CV.pdf).
+
+---
+
+## 💬 Beyond the Code
+
+I’m drawn to the **human side of robotics** — systems that collaborate, assist, and understand.  
+I care about open collaboration, AI ethics, and real-world deployment of intelligent systems.
+
+> “The best way to predict the future is to invent it.” — Alan Kay
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you’re working in **AI, robotics, or intelligent systems**, I’d love to connect and exchange ideas!  
-📫 [LinkedIn](https://www.linkedin.com/in/preetisnno/) • 💻 [GitHub](https://github.com/aabha) • 📄 [CV](/files/Preeti_Verma_CV.pdf)
+Always happy to collaborate or brainstorm with fellow researchers.  
+📫 [LinkedIn](https://www.linkedin.com/in/preetisnno/) • 💻 [GitHub](https://github.com/preeti-verma8600) • 📄 [CV](/files/Preeti_Verma_CV.pdf)
+
 
 
 
