@@ -11,7 +11,7 @@ redirect_from:
 
 I’m an **AI researcher and robotics enthusiast**, passionate about building systems that *perceive, learn, and act* in the real world.
 
-Currently, I’m contributing to **AI-powered glucose control systems** at [Micelab, University of Girona](https://www.udg.edu), where we translate machine learning into **personalized healthcare** solutions. Previously, I completed the **Erasmus Mundus Master's in Intelligent Field Robotic Systems (IFRoS)** — spanning Spain and Hungary.  
+Currently, I’m contributing to **AI-powered glucose control systems** at [Micelab, University of Girona](https://micelab.udg.edu/), where we translate machine learning into **personalized healthcare** solutions. Previously, I completed the **Erasmus Mundus Master's in Intelligent Field Robotic Systems (IFRoS)** — spanning Spain and Hungary.  
 I hold a **B.Tech in Electrical Engineering** from AMU, India, graduating in the **top 5%** of my class.
 
 ---
@@ -39,8 +39,6 @@ My research spans:
 - 🛰️ Sensor Fusion & Perception Pipelines
 
 You can find my contributions in top venues like **MICCAI 2024**, **ECAI 2023**, and **LREC-COLING 2024**.
-
-👉 [**View Full CV**](/files/Preeti_Verma_CV.pdf)
 
 ---
 
