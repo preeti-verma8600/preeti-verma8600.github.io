@@ -1,5 +1,112 @@
 ---
 permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+# 👋 Hi, I'm Aabha Verma
+
+I’m an **Artificial Intelligence Researcher** passionate about building intelligent, embodied systems that learn, perceive, and act in the real world. My research lies at the intersection of **AI, robotics, and control**, driven by curiosity for how machines can understand and adapt to dynamic environments.
+
+Currently, I’m working at **Micelab, University of Girona (Spain)**, where I’m developing **AI-driven glucose control systems** for personalized healthcare. I completed my **Erasmus Mundus Master in Intelligent Field Robotic Systems (IFRoS)** — a joint program between *Eötvös Loránd University* (Hungary) and *University of Girona* (Spain).  
+Before that, I earned my **B.Tech in Electrical Engineering** from *Aligarh Muslim University (India)*, graduating in the **top 5%** of my class.
+
+---
+
+## 🧠 Research Interests
+
+My long-term goal is to pursue a **PhD in AI and Robotics**, focusing on developing autonomous systems that can perceive, reason, and interact naturally with humans and their surroundings.
+
+**Key interests include:**
+- Embodied Intelligence and Human-Robot Interaction  
+- Reinforcement Learning and Control  
+- Computer Vision and Perception  
+- Medical AI and Simulation  
+- Robust and Explainable AI Systems  
+
+---
+
+## 🧪 Research & Projects
+
+- **Autonomous Navigation using Deep Reinforcement Learning (UdG, 2024)**  
+  Developed custom Gym environments and compared Soft Actor-Critic and PPO for navigation tasks using LIDAR data.
+
+- **Medical Imaging Quality Assessment (University of Barcelona, 2023)**  
+  Proposed Radiomics FID metrics to quantify image quality and studied their robustness to noise and normalization.
+
+- **Autonomous Robotic Explorer & Manipulator (UdG, 2023)**  
+  Built frontier-based exploration, EKF-SLAM, and task-priority control for a 4-DOF robotic manipulator using ROS and Behavior Trees.
+
+- **Multi-Span Medical Question Answering (IIT Patna, 2022)**  
+  Co-developed *QueSemKnow*, a transformer-based model integrating query semantics and knowledge graphs for medical QA.
+
+- **Pomona 3D Graph SLAM (Budapest, 2023)**  
+  Integrated 3D LiDAR, GPS, and IMU data in ROS for robust online environment mapping and sensor fusion.
+
+---
+
+## 💼 Professional Experience
+
+**Artificial Intelligence Researcher — Micelab, University of Girona (Spain)** *(Jan 2025 – Present)*  
+- Designing and testing real-time glucose control algorithms for clinical trials.  
+- Developing MPC and PID controllers for personalized insulin dosing.  
+- Supporting EU AI research proposals through technical writing and system design.
+
+**Research Assistant — AMU, India** *(Nov 2021 – Jun 2022)*  
+- Worked on metaheuristic optimization for photovoltaic systems using Typhoon HIL.  
+- Conducted research training seminars and co-supervised undergraduate projects.
+
+---
+
+## 🏆 Highlights & Recognition
+
+- 🎓 **Erasmus Mundus Scholar (IFRoS)**  
+- 🌍 **Global Korea Scholarship (GKS)** & **Banach Scholarship** recipient  
+- 🤖 **Publications at MICCAI 2024, ECAI 2023, and LREC-COLING 2024**  
+- 🧠 **AWS Machine Learning Scholar (2021)**  
+- 💡 Reviewer for *Scientific Reports (Nature)*  
+- 🥇 Top 2% in **EMBARK 2021** (Design Track, 450k+ participants)
+
+---
+
+## 🗣️ Beyond Research
+
+I’m fascinated by **AI for good**, open collaboration, and interdisciplinary robotics that make life safer and smarter.  
+I enjoy sharing ideas, mentoring, and connecting with people who are equally passionate about building the next generation of intelligent systems.
+
+> “I don’t just want to build smart machines — I want to build ones that understand.”
+
+---
+
+## 🤝 Let’s Connect
+
+If you’re working in **AI, robotics, or intelligent systems**, I’d love to connect and exchange ideas!  
+📫 [LinkedIn](https://www.linkedin.com/in/preetisnno/) • [GitHub](https://github.com/aabha) • [CV](/files/Aabha_CV.pdf)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
@@ -53,4 +160,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
