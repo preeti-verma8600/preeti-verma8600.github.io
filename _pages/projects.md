@@ -22,6 +22,13 @@ An end-to-end learning pipeline for autonomous navigation using **Soft Actor-Cri
 🎥 [Watch Project Video](https://drive.google.com/file/d/1_lDjbW6k9gace_Ca7jNYK760WsogKfSQ/view?usp=sharing)  
 📄 [Read Thesis PDF](/files/Thesis_by_Preeti_Verma.pdf)
 
+---
+
+## 🤖 Autonomous Robotic Explorer & Manipulator  
+**UdG Girona, Spain** | *Feb 2023 – Jul 2023*
+
+An integrated robotic system combining **exploration**, **manipulation**, **SLAM**, and **perception**, developed in **ROS**, tested in simulators and real environments.
+
 ### 📸 Project Snapshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
@@ -30,13 +37,6 @@ An end-to-end learning pipeline for autonomous navigation using **Soft Actor-Cri
   <img src="/images/real_planning_localization.png" width="48%" style="border-radius: 10px;" />
   <img src="/images/manipulationreal.png" width="48%" style="border-radius: 10px;" />
 </div>
-
----
-
-## 🤖 Autonomous Robotic Explorer & Manipulator  
-**UdG Girona, Spain** | *Feb 2023 – Jul 2023*
-
-An integrated robotic system combining **exploration**, **manipulation**, **SLAM**, and **perception**, developed in **ROS**, tested in simulators and real environments.
 
 ### 🔹 Planning
 - **Frontier-based exploration** combining RRT and DWA
@@ -98,9 +98,6 @@ Developed **QueSemKnow**, a query semantic and knowledge-guided transformer mode
 
 ---
 
-## 📌 Want More?
-
-💡 For hands-on robotics, optimization, and control projects from earlier years, see my [CV](/cv/) or reach out on [LinkedIn](https://www.linkedin.com/in/preetisnno/).
 
 
 
