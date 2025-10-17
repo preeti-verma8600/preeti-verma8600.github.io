@@ -27,36 +27,86 @@ An end-to-end learning pipeline for autonomous navigation using **Soft Actor-Cri
 ## 🤖 Autonomous Robotic Explorer & Manipulator  
 **UdG Girona, Spain** | *Feb 2023 – Jul 2023*
 
-<img src="/images/real_planning_localization.png" alt="Robotic Explorer" width="100%" style="border-radius: 12px; margin-top: 10px;" />
+An integrated robotic system combining **exploration**, **manipulation**, **SLAM**, and **perception**, developed using **ROS** and tested in both simulation and real-world environments.
 
-A modular ROS-based robot system capable of exploring unknown environments, perceiving objects, and executing manipulation tasks via a 4-DOF robotic arm.
+---
 
-- **Planning:** RRT + DWA frontier exploration  
-- **Localization:** EKF SLAM with ICP  
-- **Perception:** DAVIS & ArUco marker detection  
-- **Manipulation:** Task-priority control  
-- **Autonomy:** `py_trees`-based behavior coordination
+### 🔹 Planning
 
-🎥 [Watch Project Video](https://youtu.be/YOUR_EXPLORER_VIDEO_LINK)  
-📄 [Read Project PDF](/files/Explorer_Module_Full.pdf)
+**Implemented:** Frontier-based exploration combining **RRT** and **DWA**  
+**Platform:** Gazebo & Stonefish Simulators
+
+📄 [Read PDF](/files/Hands_on_Planning_report.pdf)
+
+---
+
+### 🔹 Localization
+
+**Implemented:** Pose-based **EKF SLAM** with **ICP scan matching**  
+**Sensors:** LiDAR odometry + IMU fusion
+
+📄 [Read PDF](/files/Hands_On_Localization_Presentation.pdf)
+
+---
+
+### 🔹 Perception
+
+**Implemented:** Event-based feature tracking for **DAVIS sensor**  
+**Tools:** RealSense camera + ArUco marker detection pipeline
+
+🎥 [Watch Video](https://drive.google.com/file/d/1x_3L2jBV-lypZHbmb2kTQ8vprtLnZTqt/view?usp=drive_link)  
+📄 [Read PDF](/files/Hands_On_Perception_Report.pdf)
+
+---
+
+### 🔹 Manipulation
+
+**Implemented:** Task-priority redundancy resolution for 4-DOF arm  
+**Tasks:** Object pick, transport, and placement
+ 
+📄 [Read PDF](/files/Hands_On_Intervention_Report.pdf)
+
+---
+
+### 🔹 Autonomy
+
+**Implemented:** Behavior trees using `py_trees` for intelligent decision-making  
+**Outcome:** Seamless integration of modules for autonomous robot behavior
+
+🎥 [Real Robot Video](https://drive.google.com/file/d/1fpwyqLnYkeVfgQACtkmG4f_qg_WIAAzI/view?usp=drive_link)  
+🎥 [Simulation Video](https://drive.google.com/file/d/1RycwcICvbDNGwVo2LzIz3QIRni1FGWvE/view?usp=drive_link)
+
+---
+
+### 🧠 Skills & Tools Used
+
+- 🧠 **ROS**, **Gazebo**, **Python**, **RRT**, **ICP**, **SLAM**, **py_trees**
+- 📡 **LiDAR**, **IMU**, **DAVIS**, **RealSense**, **ArUco**
+- 🛠️ Behavior Trees, Feature Tracking, Motion Planning, EKF
+
+---
+
+### 📌 Outcome
+
+This project demonstrated a full-stack robotics pipeline integrating planning, perception, localization, and manipulation in a cohesive system — simulating autonomous exploration and real-time decision-making in unknown environments.
 
 ---
 
 ## 🧬 Medical Imaging Quality Assessment using Radiomics  
 **University of Barcelona** | *Jul 2023 – Aug 2023*
 
-<img src="/images/medical_qc_banner.png" alt="Medical Image Quality" width="100%" style="border-radius: 12px; margin-top: 10px;" />
+<img src="/images/radiomic_noise.png" alt="Medical Image Quality" width="100%" style="border-radius: 12px; margin-top: 10px;" />
 
 Evaluated **synthetic imaging realism** using **Radiomics FID** — a metric focused on robustness to noise, clinical relevance, and image fidelity.
 
-📄 [View Full Report](/files/Radiomics_FID_Project.pdf)
+📄 [View Full Paper](https://arxiv.org/pdf/2403.13890?)
 
 ---
 
 ## 🌐 Pomona 3D Graph SLAM for Online Mapping  
 **Budapest, Hungary** | *Sep 2023 – Dec 2023*
 
-<img src="/images/pomona_slam_banner.jpg" alt="Pomona Graph SLAM" width="100%" style="border-radius: 12px; margin-top: 10px;" />
+<img src="/images/lidaroutdoor2.png" alt="Pomona Graph SLAM" width="100%" style="border-radius: 12px; margin-top: 10px;" />
 
 Built a full pipeline in ROS for real-time **3D environment mapping** using **LiDAR + GPS + IMU**. Integrated with hdl_graph_slam and optimized for pose graph accuracy.
 
@@ -65,11 +115,11 @@ Built a full pipeline in ROS for real-time **3D environment mapping** using **Li
 ## 🧠 Multi-Span Medical QA using Query Semantics & Knowledge Graphs  
 **IIT Patna, India** | *Jun 2022 – Aug 2022*
 
-<img src="/images/qa_semantic_banner.jpg" alt="Medical QA" width="100%" style="border-radius: 12px; margin-top: 10px;" />
+<img src="/images/lrcolling.png" alt="Medical QA" width="100%" style="border-radius: 12px; margin-top: 10px;" />
 
 Developed **QueSemKnow**, a two-phase semantic-aware model for answering complex medical questions using transformer-based extraction and graph-based reasoning.
 
-📄 [Read Publication](/files/QueSemKnow_MedQA.pdf)
+📄 [Read Publication](https://aclanthology.org/2024.lrec-main.1264.pdf)
 
 ---
 
