@@ -62,7 +62,7 @@ Whether you're a researcher, a lab, or just curious about intelligent systems �
 
 **📫 Reach out:**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/preetisnno/)  
-- 💻 [GitHub](https://github.com/preeti-verma8600)  
+- 💻 [GitHub](https://github.com/preeti-verma8600/)  
 - 📄 [View CV](/files/Preeti_Verma_CV.pdf)  
 
 Let’s build something intelligent — and meaningful — together.
