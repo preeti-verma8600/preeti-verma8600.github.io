@@ -8,6 +8,123 @@ author_profile: true
 
 # 🛠️ Projects Portfolio
 
+Here’s a showcase of selected research projects across robotics, AI, and healthcare — blending real-world application with academic rigor.
+
+---
+
+## 🧭 Autonomous Navigation with Deep Reinforcement Learning  
+**UdG Girona, Spain** | *Feb 2024 – Jun 2024*
+
+<img src="/images/thesis1.png" alt="DRL Navigation" width="100%" style="border-radius: 12px; margin-top: 10px;" />
+
+An end-to-end learning pipeline for autonomous navigation using **Soft Actor-Critic (SAC)** and **PPO**, built with a custom Gymnasium environment and LIDAR-based input.
+
+🎥 [Watch Project Video](https://drive.google.com/file/d/1_lDjbW6k9gace_Ca7jNYK760WsogKfSQ/view?usp=sharing)  
+📄 [Read Thesis PDF](/files/Thesis_by_Preeti_Verma.pdf)
+
+### 📸 Project Snapshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+  <img src="/images/sim_mapping.png" width="48%" style="border-radius: 10px;" />
+  <img src="/images/sim_planning.png" width="48%" style="border-radius: 10px;" />
+  <img src="/images/real_planning_localization.png" width="48%" style="border-radius: 10px;" />
+  <img src="/images/manipulationreal.png" width="48%" style="border-radius: 10px;" />
+</div>
+
+---
+
+## 🤖 Autonomous Robotic Explorer & Manipulator  
+**UdG Girona, Spain** | *Feb 2023 – Jul 2023*
+
+An integrated robotic system combining **exploration**, **manipulation**, **SLAM**, and **perception**, developed in **ROS**, tested in simulators and real environments.
+
+### 🔹 Planning
+- **Frontier-based exploration** combining RRT and DWA
+- ✅ Tested in Gazebo and Stonefish  
+📄 [Read PDF](/files/Hands_on_Planning_report.pdf)
+
+### 🔹 Localization
+- **Pose-based EKF SLAM** with ICP scan matching  
+- 🔄 Sensor fusion using LiDAR and IMU  
+📄 [Read PDF](/files/Hands_On_Localization_Presentation.pdf)
+
+### 🔹 Perception
+- **Event-based tracking** for DAVIS sensor  
+- ✅ Integrated RealSense + ArUco detection  
+🎥 [Watch Video](https://drive.google.com/file/d/1x_3L2jBV-lypZHbmb2kTQ8vprtLnZTqt/view?usp=drive_link)  
+📄 [Read PDF](/files/Hands_On_Perception_Report.pdf)
+
+### 🔹 Manipulation
+- **Task-priority control** for 4-DOF robotic arm  
+- 🤖 Autonomous pick-and-place  
+📄 [Read PDF](/files/Hands_On_Intervention_Report.pdf)
+
+### 🔹 Autonomy
+- **Behavior Trees** using `py_trees`  
+- 🧠 Seamless decision-making  
+🎥 [Real Robot](https://drive.google.com/file/d/1fpwyqLnYkeVfgQACtkmG4f_qg_WIAAzI/view?usp=drive_link)  
+🎥 [Simulation](https://drive.google.com/file/d/1RycwcICvbDNGwVo2LzIz3QIRni1FGWvE/view?usp=drive_link)
+
+---
+
+## 🧬 Medical Imaging Quality Assessment using Radiomics  
+**University of Barcelona** | *Jul 2023 – Aug 2023*
+
+<img src="/images/radiomic_noise.png" alt="Medical Image Quality" width="100%" style="border-radius: 12px;" />
+
+Evaluated **synthetic imaging realism** using Radiomics FID. Analyzed robustness to noise, correlation with clinical features, and limitations of classical image realism metrics.
+
+📄 [Read Paper](https://arxiv.org/pdf/2403.13890)
+
+---
+
+## 🌐 Pomona 3D Graph SLAM  
+**Budapest, Hungary** | *Sep 2023 – Dec 2023*
+
+<img src="/images/lidaroutdoor2.png" alt="Pomona Graph SLAM" width="100%" style="border-radius: 12px;" />
+
+Developed a 3D mapping solution in ROS using **LiDAR, IMU, and GPS**, fusing data into optimized pose graphs using `hdl_graph_slam`. Focused on accuracy, real-time loop closure, and outdoor readiness.
+
+---
+
+## 💬 Multi-Span Medical QA (QueSemKnow)  
+**IIT Patna, India** | *Jun 2022 – Aug 2022*
+
+<img src="/images/lrcolling.png" alt="Medical QA" width="100%" style="border-radius: 12px;" />
+
+Developed **QueSemKnow**, a query semantic and knowledge-guided transformer model for multi-span question answering in medical settings. Published at LREC-COLING 2024.
+
+📄 [Read Publication](https://aclanthology.org/2024.lrec-main.1264.pdf)
+
+---
+
+## 📌 Want More?
+
+💡 For hands-on robotics, optimization, and control projects from earlier years, see my [CV](/cv/) or reach out on [LinkedIn](https://www.linkedin.com/in/preetisnno/).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ---
+title: "Projects"
+layout: single
+permalink: /projects/
+classes: wide
+author_profile: true
+---
+
+# 🛠️ Projects Portfolio
+
 Here’s a showcase of my selected projects across robotics, AI, and healthcare — combining research, engineering, and real-world applications.
 
 ---
@@ -121,7 +238,7 @@ Developed **QueSemKnow**, a two-phase semantic-aware model for answering complex
 
 📄 [Read Publication](https://aclanthology.org/2024.lrec-main.1264.pdf)
 
----
+--- -->
 
 
 
