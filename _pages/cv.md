@@ -9,6 +9,6 @@ redirect_from:
 
 
 📄 **Download My Full CV (PDF):**  
-[**⬇️ Click here to download**](/files/Preeti_Verma_CV.pdf)
+[**⬇️ Click here to download**](/files/CV_by_Preeti_Verma.pdf)
 
 ---

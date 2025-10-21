@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+# title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -63,7 +63,7 @@ Whether you're a researcher, a lab, or just curious about intelligent systems �
 **📫 Reach out:**  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/preetisnno/)  
 - 💻 [GitHub](https://github.com/preeti-verma8600/)  
-- 📄 [View CV](/files/Preeti_Verma_CV.pdf)  
+- 📄 [View CV](/files/CV_by_Preeti_Verma.pdf)  
 
 Let’s build something intelligent — and meaningful — together.
 
