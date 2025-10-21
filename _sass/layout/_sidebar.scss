@@ -95,7 +95,9 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0;
+
+    // border-radius:    50%;
 
     @include breakpoint($large) {
       padding: 5px;
@@ -249,16 +251,35 @@
 
   a {
     display: block;
-    margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
-    font-size: $type-size-5;
+    margin-bottom: 8px;         // increase space between links
+    padding: 6px 10px;          // more padding for better click area
+    font-size: 1.05rem;         // increase font size
+    color: #111111;             // more readable color
     text-decoration: none;
 
     &:hover {
       text-decoration: underline;
+      color: #007acc;           // optional: add a hover color for visibility
     }
   }
+
+  i {
+    font-size: 1.2rem;          // make icons bigger
+    margin-right: 6px;          // spacing between icon and text
+  }
+
+  // a {
+  //   display: block;
+  //   margin-bottom: 5px;
+  //   padding-right: 5px;
+  //   padding-top: 2px;
+  //   padding-bottom: 2px;
+  //   color: inherit;
+  //   font-size: $type-size-5;
+  //   text-decoration: none;
+
+  //   &:hover {
+  //     text-decoration: underline;
+  //   }
+  // }
 }
