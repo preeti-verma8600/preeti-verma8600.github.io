@@ -1,12 +1,12 @@
 ---
-title: "Projects"
+title: "🛠️ Projects Portfolio"
 layout: single
 permalink: /projects/
 classes: wide
 author_profile: true
 ---
 
-# 🛠️ Projects Portfolio
+<!-- # 🛠️ Projects Portfolio -->
 
 Here’s a showcase of selected research projects across robotics, AI, and healthcare — blending real-world application with academic rigor.
 
