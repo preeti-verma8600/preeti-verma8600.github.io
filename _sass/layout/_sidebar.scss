@@ -282,4 +282,20 @@
   //     text-decoration: underline;
   //   }
   // }
+
+  .author__desktop {
+  font-size: 1.05rem;
+  color: #111111;
+  margin-bottom: 8px;
+  padding: 6px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.author__desktop i {
+  font-size: 1.2rem;
+  margin-right: 6px;
+  color: #007acc;  // Optional: give icon a color
+}
+
 }
