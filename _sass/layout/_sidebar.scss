@@ -58,6 +58,8 @@
   img {
     width: 100%;
   }
+
+  background-color: #e9f2f9; // ✅ light academic gray-blue tone
 }
 
 .sidebar__right {
@@ -249,7 +251,7 @@
     white-space: nowrap;
   }
 
-  a {
+  a {is
     display: block;
     margin-bottom: 8px;         // increase space between links
     padding: 6px 10px;          // more padding for better click area
@@ -297,7 +299,5 @@
     margin-right: 6px;
     color: #007acc;  // Optional: give icon a color
   }
-
-  background-color: #e9f2f9; // ✅ light academic gray-blue tone
 
 }
