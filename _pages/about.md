@@ -1,13 +1,13 @@
 ---
 permalink: /
-# title: "About Me"
+title: "👋 Hi, I'm Preeti Verma"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 👋 Hi, I'm Preeti Verma
+<!-- # 👋 Hi, I'm Preeti Verma -->
 
 I’m an **AI researcher and robotics enthusiast**, passionate about building systems that *perceive, learn, and act* in the real world.
 
